@@ -9,6 +9,7 @@
 @import url('components/card.css');
 @import url('components/footer.css');
 /* Utilities */
+
 body {
   margin: 0;
   font-family: Open Sans;
